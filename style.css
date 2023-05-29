@@ -225,6 +225,7 @@ nav a:active{
         width: 0%;
         height: 400px;
         backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
         transition: all 0.4s;
     }
 
